@@ -1,7 +1,7 @@
 ### Howdy, I'm Sean :cowboy_hat_face::wave:
 
 - :city_sunrise: I'm based in New York, and hail from Pittsburgh
-- :computer: I'm currently working as the lead software developer at PVE, where I'm building tools for architects and engineers
+- :computer: I'm currently working as a software leader and developer for the built environment
 - :apple: I also teach software development and data analysis online and to private students
 - :earth_africa: I volunteer with the Organization for Ethical Source, helping build software for social good
 - :school: I studied computer science and philosophy at the University of Pittsburgh, where I also used to teach
